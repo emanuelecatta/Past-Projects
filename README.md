@@ -3,7 +3,7 @@ This folder contains notes I wrote during the 2025/26 academic year—my first y
 The projects are divided into three broad areas:
 
 
-- TOPOLOGICAL FEATURES OF QFT.
+- TOPOLOGICAL FEATURES OF QFT
   1. S-matrix bootstrap and non-invertible symmetries: In this work, I review two papers by Copetti, Cordova, and Komatsu, in which non-invertible symmetry data are incorporated into both numerical and integrable bootstrap procedures for 2D QFT. This work was carried out as an "introduction to research" project, supervised by Prof. Fabio Apruzzi.
     
   2. Kinks and their quantization. A brief introduction to classical solutions and the corresponding quantization of kinks in 2D QFT, following the first chapters of E. Weinberg book's "Non-linear solutions in QFT". Intermediate project completed for the master course "Advanced Topics in Physics," taught by Prof. Alexander Yakimenko.
@@ -11,7 +11,7 @@ The projects are divided into three broad areas:
   3. Bulk-edge correspondence in topological states of matter. These notes introduce abelian Chern-Simons theory and the corresponding chiral edge modes, and describe the duality between the Laughlin proposals and the correlation functions at the edge. Notes for the final presentation of the Galilean course "Topological States of Matter, Cold Atoms and Photonics," taught by Professors Marco Di Liberto and Jacopo Carusotto.
 
 
-- FIELD-THEORETIC PERSPECTIVES IN STATISTICAL MECHANICS.
+- FIELD-THEORETIC PERSPECTIVES IN STATISTICAL MECHANICS
 
   1. Stochastic Loewner Equations (SLE). An introduction to the method of stochastic Loewner equations, used to describe fractal interfaces at critical (conformal) points via the stochastic equation of Brownian motion. Notes for the final exam of the "Complex Systems" master course, taught by Prof. Antonio Trovato.
  
