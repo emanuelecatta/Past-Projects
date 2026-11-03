@@ -20,7 +20,7 @@ The projects are divided into three broad areas:
 
  - CURIOUS INTERSECTIONS BETWEEN MATHEMATICS AND PHYSICS
  
- 1. Quantum notion of ergodicity. Following an introduction to classical ergodic theory within the framework of measure theory, a theorem is presented that generalizes these concepts to a "quantum" setting—specifically by examining the equidistribution of wave functions on Riemannian manifolds. Notes for the final examination of the Master’s-level course in "Mathematical Physics", taught by Prof. Antonio Ponno.
+  1. Quantum notion of ergodicity. Following an introduction to classical ergodic theory within the framework of measure theory, a theorem is presented that generalizes these concepts to a "quantum" setting—specifically by examining the equidistribution of wave functions on Riemannian manifolds. Notes for the final examination of the Master’s-level course in "Mathematical Physics", taught by Prof. Antonio Ponno.
        
- 2. Other uncertainty principles. Formulation of the uncertainty principle in the style of Hardy, along with several corollaries. Lecture notes for a self-organized reading course at the Scuola Galileiana.
+  2. Other uncertainty principles. Formulation of the uncertainty principle in the style of Hardy, along with several corollaries. Lecture notes for a self-organized reading course at the Scuola Galileiana.
    
